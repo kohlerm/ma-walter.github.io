@@ -19,6 +19,6 @@ collections:
 markdown: kramdown
 
 plugins: [jekyll-paginate]
-foobar
+
 paginate: 3
 paginate_path: "blog/page:num"
